@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://ko-fi.com/josepilas" target="_blank" rel="noopener noreferrer">
+    <img src="https://josepilas.github.io/kofi.webp" alt="Ko-fi" width="300" />
+  </a>
+</p>
+
 <!-- SPDX-License-Identifier: MPL-2.0 -->
 <!-- Copyright (c) 2026 José Pilas. -->
 # LilSmoke Applications SDK 0.3.0-dev
